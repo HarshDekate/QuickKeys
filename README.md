@@ -73,7 +73,7 @@ QuickKeys is open-source and licensed under the MIT License. Check out the [LICE
 
 ## Get in Touch
 
-Have questions or suggestions? Feel free to reach out to us at [your-email@example.com](mailto:your-email@example.com).
+Have questions or suggestions? Feel free to reach out to us at [your-email@example.com](mailto:info@harshbyte.tech).
 
 ---
 
